@@ -1,3 +1,3 @@
 [submodule "cetus-test"]
 	path = cetus-test
-	url = git@github.com:Dulco/cetus-test.git
+	url = https://github.com/Dulco/cetus-test.git
