@@ -11,9 +11,9 @@ Pasos para crear o editar un despliegue en OCI.
 
     Y damos click a los 3 puntos y en editar. En caso de no encontrar un despliegue asociado, clickeamos "Create deploymeny". Dónde:
    
-        "Name": **CORES_REST_B2B_VALORES**
+        "Name": CORES_REST_B2B_VALORES
         
-        "Path": **/rest/valores/b2b/cores** 
+        "Path": /rest/valores/b2b/cores 
 
 7. Una vez en esta pestaña de Edit deployment o Create deployment, deberemos seleccionar la opción:
     
