@@ -15,11 +15,10 @@ Pasos para crear o editar un despliegue en OCI.
         
         "Path": /rest/valores/b2b/cores 
 
-7. Una vez en esta pestaña de Edit deployment o Create deployment, deberemos seleccionar la opción:
+6. Una vez en esta pestaña de Edit deployment o Create deployment, deberemos seleccionar la opción:
     
     **Upload an existing deployment API**
-
-Que es la opción que nos permitirá subir nuestro archivo JSON con la especificación api de nuestro despligue. 
+   Que es la opción que nos permitirá subir nuestro archivo JSON con la especificación api de nuestro despligue. 
 
 7. Una vez seleccionado el archivo, vamos al paso 2 "Review" en dónde se encontrarán las rutas con sus respectivos Métodos, tipo de backend, header transformations etc.
 
