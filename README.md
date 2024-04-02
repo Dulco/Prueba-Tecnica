@@ -21,6 +21,6 @@ Pasos para crear o editar un despliegue en OCI.
    
    Que es la opción que nos permitirá subir nuestro archivo JSON con la especificación api de nuestro despligue. 
 
-8. Una vez seleccionado el archivo, vamos al paso 2 "Review" en dónde se encontrarán las rutas con sus respectivos Métodos, tipo de backend, header transformations etc.
+8. Una vez seleccionado el archivo, vamos al paso 2 **"Review"** en dónde se encontrarán las rutas con sus respectivos Métodos, tipo de backend, header transformations etc.
 
 9. Revisamos que todo esté bien y guardamos cambios o creamos según sea el caso. 
