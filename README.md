@@ -10,11 +10,12 @@ Pasos para crear o editar un despliegue en OCI.
     **CORES_REST_B2B_VALORES**
 
     Y damos click a los 3 puntos y en editar. En caso de no encontrar un despliegue asociado, clickeamos "Create deploymeny". Dónde:
+   
         "Name": **CORES_REST_B2B_VALORES**
         
         "Path": **/rest/valores/b2b/cores** 
 
-6. Una vez en esta pestaña de Edit deployment o Create deployment, deberemos seleccionar la opción:
+7. Una vez en esta pestaña de Edit deployment o Create deployment, deberemos seleccionar la opción:
     
     **Upload an existing deployment API**
 
